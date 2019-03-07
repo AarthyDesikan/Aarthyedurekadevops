@@ -6,3 +6,6 @@ changes made in master in repo
 2-16: new line
 
 one more change on topof it
+
+
+3-7 - continuing the training
