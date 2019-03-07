@@ -1,0 +1,12 @@
+This is my new file in branch created from local Feature2Branch.
+Now this file will be pushed to repo.
+
+How are we able to create a branch in local?
+We need a source branch.
+
+When Feature2Branch is created, we were in feature1branch.
+
+So Feature2branch has all the info of feature1,
+
+
+So whichever branch you want to branch into (master or feature 1 or feature x) first checkto that out and then create a branch.
