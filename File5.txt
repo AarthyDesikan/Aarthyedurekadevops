@@ -10,3 +10,6 @@ So Feature2branch has all the info of feature1,
 
 
 So whichever branch you want to branch into (master or feature 1 or feature x) first checkto that out and then create a branch.
+
+
+New feature5 branch to show merge from local
